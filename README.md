@@ -1,2 +1,2 @@
-# SnakeGame
- 2PlayerSnakeGame
+# snake
+ 
